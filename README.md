@@ -138,10 +138,4 @@ Processa argumentos, resolve o alvo, inicia as threads e exibe/exporta resultado
 ## ⚖️ Aviso Legal
 **Este software é fornecido apenas para fins educacionais**. O uso não autorizado de scanners de porta em sistemas de terceiros pode violar leis locais e políticas de uso aceitável. O autor não se responsabiliza por qualquer uso indevido ou danos causados pela ferramenta
 
----
-
-## 📫 Contato
-Criado por Acácio de Brito Gabriel
-https://img.shields.io/badge/www.linkedin.com/in/acácio-gabriel-742187256-blue
-https://img.shields.io/badge/acaciobritog@hotmail.com-red
 
