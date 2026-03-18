@@ -1,7 +1,6 @@
 # 🔍 Port Scanner Avançado
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://python.org)
-[![Licença](https://img.shields.io/badge/Licença-MIT-green)](LICENSE)
 
 Um scanner de portas TCP/UDP desenvolvido em Python, com suporte a **multithreading**, **banner grabbing**, **exportação de resultados** e argumentos de linha de comando flexíveis. Ideal para aprendizado de redes e segurança, ou como base para ferramentas mais complexas.
 
